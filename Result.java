@@ -7,6 +7,7 @@ import java.sql.*;
 public class Result {
 
 	//object and variable declaration
+	//display result in form of table
 	JFrame frame;
 	JPanel panel;
 	JTable table;
